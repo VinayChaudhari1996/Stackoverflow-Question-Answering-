@@ -7,7 +7,11 @@
 ## To retrive answer for given query using higly unstructed stackoverflow data.
 
 Given Input and Expected Output
+
+https://user-images.githubusercontent.com/42869040/141801880-9e4ab5ce-47d9-4162-b8d6-eb60f57e09c3.mov
+
 ![image](https://user-images.githubusercontent.com/42869040/141797414-b7be40cd-e9fe-49f7-a11e-249116afb48b.png)
+
 
 
 #### Approach and Flow
