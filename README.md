@@ -10,7 +10,7 @@ Given Input and Expected Output
 ![image](https://user-images.githubusercontent.com/42869040/141797414-b7be40cd-e9fe-49f7-a11e-249116afb48b.png)
 
 
-#### Approch 
+#### Approach and Flow
 
 ![image](https://user-images.githubusercontent.com/42869040/141795512-f21e713b-ab9c-4131-a667-81e2011ce5bb.png)
 
