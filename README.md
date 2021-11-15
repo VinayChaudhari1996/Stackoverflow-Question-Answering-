@@ -4,7 +4,7 @@
 
 #### Problem 
 
-## To retrive answer for given query using higly unstructed stackoverflow data.
+## To retrive answer for given query using higly unstructured stackoverflow data.
 
 Given Input and Expected Output
 
