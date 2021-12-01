@@ -1,10 +1,8 @@
-# Stackoverflow open Question Answering pipeline using Heystack Framework.
-
-
+# Extracting insights from unstructured data.
 
 #### Problem 
 
-## To retrive answer for given query using highly unstructured stackoverflow data.
+**To retrive answer for given query using highly unstructured stackoverflow data.**
 
 Given Input and Expected Output
 
